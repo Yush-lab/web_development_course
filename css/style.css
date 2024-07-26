@@ -1,0 +1,42 @@
+/* 
+    Css syntax
+
+    selectors{
+        css-property : property-value
+    }
+        sellectors ex
+            Body
+            p
+            h1
+            span
+            table
+*/
+
+p{
+    border: 1px solid green;
+}
+table {
+    border: 2px solid;
+    padding: 16px;
+    margin: 17px;
+    border-collapse: collapse;
+    color: purple;
+}
+th,
+td {
+    padding: x;
+    border: 2px solid pink;
+}
+p{
+    color: blue;
+}
+.text{
+    color: brown;
+}
+.active{
+    color: red;
+}
+a:hover{
+        color: red;
+}
+
